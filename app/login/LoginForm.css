@@ -1,0 +1,40 @@
+/* Frame 427320715 */
+
+/* Auto layout */
+.loginForm{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 403px;
+height: 399px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.upperForm{
+    /* Frame 427320713 */
+    
+        /* Auto layout */
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 16px;
+    
+        width: 403px;
+        height: 217px;
+    
+    
+        /* Inside auto layout */
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+}
