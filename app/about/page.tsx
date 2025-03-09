@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import ContactForm from "../components/ContactForm";
 
 export default function About() {
   return (
@@ -23,6 +24,8 @@ export default function About() {
             et Porter destination Toto remarkable officia Helsinki excepteur
             Basset hound. Zürich sleepy perfect consectetur.
           </p>
+          <h2 className="text-[32px] font-semibold">Contact me</h2>
+          <ContactForm />
         </div>
         <div className="flex gap-4 mt-10">
             </div>
